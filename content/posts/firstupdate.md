@@ -36,7 +36,7 @@ My name is Anis Choudhury and I will be serving as the District Secretary for ou
 
 - The application is due **April 25st**, and it is attached [here](https://docs.google.com/forms/d/e/1FAIpQLSfx1DijiM7tyJUhG3pxmJuQmFJ1GkT2y99zqBSuEJRTLgpL5w/viewform?usp=sf_link).
 
-- There is also a webpage with more information [here](/SecDigest/posts/committees) (there is also more information on the google form)
+- There is also a webpage with more information [here](/Digest/posts/committees) (there is also more information on the google form)
 
 - *Note:* Even if applications are closed we would also like members in the committee so still look over the various Committe to see if you interested in joining!
 
@@ -48,7 +48,7 @@ My name is Anis Choudhury and I will be serving as the District Secretary for ou
 
 - If you are interested do reach out to district as we will try to organize all those who are going together and we can help you get funding to attend.
 
-- For more information on the event click [here](/SecDigest/posts/icon)
+- For more information on the event click [here](/Digest/posts/icon)
 
 ---
 
