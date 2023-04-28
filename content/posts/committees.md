@@ -18,7 +18,7 @@ There are a number of committees and they are as follows:
 
 # Alumni & Kiwanis Family Relations Committee
 
-This position helps to bridge the gap between New York District Circle K and other K-Family branches. This committee will work with New York District K-Kids, Builder’s Club, Key Club, Aktion Club, Kiwanis, and the New York District Circle K Alumni Foundation members to promote unity, drive membership, and plan Kiwanis Family events. This committee will work to recruit more Key Club alumni into our clubs, encourage graduating CKI members to join Kiwanis Clubs and our Alumni Association, and also help our clubs network with local K-Family branches and hold Kiwanis Family Relations events. 
+This position helps to bridge the gap between New York District Circle K and other K-Family branches. This committee will work with New York District K-Kids, Builder’s Club, Key Club, Aktion Club, Kiwanis, and the New York District Circle K Alumni Foundation members to promote unity, drive membership, and plan Kiwanis Family events. This committee will work to recruit more Key Club alumni into our clubs, encourage graduating CKI members to join Kiwanis Clubs and our Alumni Association, and also help our clubs network with local K-Family branches and hold Kiwanis Family Relations events.  
 
 # Club Building & Membership Committee
 
