@@ -1,4 +1,4 @@
-baseURL: ' https://secscholar.github.io/Digest/
+baseURL: 'https://secscholar.github.io/Digest/'
 languageCode: 'en-us'
 title: 'NYCKI Secretary Digest'
 theme: 'PaperMod'
