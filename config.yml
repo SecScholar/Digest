@@ -1,0 +1,50 @@
+baseURL: 'http://example.org/'
+languageCode: 'en-us'
+title: 'NYCKI Secretary Digest'
+theme: 'PaperMod'
+
+languages:
+  en:
+      languageName: "English"
+      weight: 1
+      taxonomies:
+        category: categories
+        tag: tags
+        series: series
+      menu:
+        main:
+            - name: Archive
+              url: archives
+              weight: 2
+            - name: Search
+              url: search/
+              weight: 3
+            - name: Tags
+              url: tags/
+              weight: 10
+
+params:
+  homeInfoParams:
+    Title: Hey Everyone
+    Content: This is the District Secretary Updates page for the New York Circle K District
+  ShowReadingTime: true
+  ShowToc: true
+  socialIcons:
+    - name: instagram
+      url: "https://www.instagram.com/nycirclek/"
+    - name: facebook
+      url: "https://www.facebook.com/nycirclek"
+    - name: youtube
+      url: "https://www.youtube.com/channel/UCm348EkCKKX0yHKXV4fqfxQ"
+    - name: carrd
+      url: "https://nycki.carrd.co/"
+  cover:
+      responsiveImages: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+
