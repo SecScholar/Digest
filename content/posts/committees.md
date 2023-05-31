@@ -1,16 +1,17 @@
 ---
-title: "Committees"
+title: "Committees Applications (2023)"
 date: 2023-04-28T02:29:19-04:00
 draft: false
 tags: ['leadership']
 ---
 # Overview
+*Note: Registration is closed!*
 
 In Circle K there are a number of Committees that carry out tasks that are needed for the district to run. Through being in these Committees members can get to know the workings of Circle K on a district level and if you become a chair, you can lead entire parts of the district. 
 
 *Note: If you become a chair, you can hold this positions while still holding a board position on the club level*
 
-Committee Chair applications are due *May 1st* and the application for committee members will be released later (link bellow).
+Committee Chair applications are due *May 1st* and the application for committee members will be released later. 
 
 For more information make sure to contact the District Governor David Pritchett at david.pritchett@nycki.org
 
