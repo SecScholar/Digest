@@ -7,6 +7,8 @@ tags: ['events']
 
 # Overview
 
+*Note: In person registration is closed*
+
 International Convention is an event where members from all the Circle Ks and Kiwanis across the organization come together to one place. 
 
 # Event Details

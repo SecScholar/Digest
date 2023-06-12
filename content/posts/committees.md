@@ -5,7 +5,7 @@ draft: false
 tags: ['leadership']
 ---
 # Overview
-*Note: Chair Applications besides the service Chair is filled, but member applications are open! Email David (read below) for information*
+*Note: Chair Applications besides the service Chair is filled, but member applications are open! Email David (email below) for information*
 
 In Circle K there are a number of Committees that carry out tasks that are needed for the district to run. Through being in these Committees members can get to know the workings of Circle K on a district level and if you become a chair, you can lead entire parts of the district. 
 

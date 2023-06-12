@@ -31,12 +31,12 @@ The **gist** of this update is to notify clubs that have not filled out their ER
 
 ## Secretary Meetings
 - As the District Secretary I want to help you all through your secretarial duties. Therefore I would like to meet with you all in the following week. I have a google calender booking link [here](https://calendar.app.google/GTyUwNccqZwMzj8M6).
-- The meeting will consist of working through the membership update center, submiting your MRF, using the master document, and more! 
-- I you are not available during my specified time, email me back and I can make other arrangements.
+- The meeting will consist of working through the membership update center, submitting your MRF, using the master document, and more! 
+- If you are not available during my specified time, email me back and I can make other arrangements.
 - I dislike meeting as well so I will do my best not to waste your time.
 
 ## Monthly Report Forms
-- As you also know the district needs clubs to submit their montly report forms.
+- As you also know the district needs clubs to submit their monthly report forms.
 - *Note: If a club has zero hours I would prefer you submit the form or email me that your club has zero hours*. 
 - Also, considering I have not met with any of you yet, this is completely understandable!
 - These are the clubs that did not submit their MRF information for the month of *April* (May's information will come out later in June):
@@ -67,4 +67,4 @@ The **gist** of this update is to notify clubs that have not filled out their ER
         - Stony Brook University
 
 ---
-Thats all for now! I look forward to meeting with all the club secretaries and I hope that everyone can continue to submit their relevant documents as soon as possible.
+That's all for now! I look forward to meeting with all the club secretaries and I hope that everyone can continue to submit their relevant documents as soon as possible.

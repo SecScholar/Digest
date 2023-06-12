@@ -40,6 +40,7 @@ params:
       url: "https://nycki.carrd.co/"
   cover:
       responsiveImages: false
+  defaultTheme: light
 
 outputs:
   home:

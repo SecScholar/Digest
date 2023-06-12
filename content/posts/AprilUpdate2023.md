@@ -3,9 +3,8 @@ title: "April Update"
 date: 2023-04-28T01:58:24-04:00
 draft: false
 tags: ["updates","events"]
-cover:
-    image: "/static/images/circularLogo" 
 ---
+
 # Overview
 
 Hello Everyone!
