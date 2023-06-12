@@ -62,7 +62,6 @@ The **gist** of this update is to notify clubs that have not filled out their ER
     - Liberty Division
         - Pace University
         - Long Island University Brooklyn
-        - Baruch College
     - Long Island Division
         - Stony Brook University
 
